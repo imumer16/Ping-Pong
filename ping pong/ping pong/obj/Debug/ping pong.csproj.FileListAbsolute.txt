@@ -1,0 +1,10 @@
+C:\Users\umera\Documents\Visual Studio 2017\Projects\ping pong\ping pong\bin\Debug\ping pong.exe.config
+C:\Users\umera\Documents\Visual Studio 2017\Projects\ping pong\ping pong\bin\Debug\ping pong.exe
+C:\Users\umera\Documents\Visual Studio 2017\Projects\ping pong\ping pong\bin\Debug\ping pong.pdb
+C:\Users\umera\Documents\Visual Studio 2017\Projects\ping pong\ping pong\obj\Debug\ping pong.csprojAssemblyReference.cache
+C:\Users\umera\Documents\Visual Studio 2017\Projects\ping pong\ping pong\obj\Debug\ping_pong.Form1.resources
+C:\Users\umera\Documents\Visual Studio 2017\Projects\ping pong\ping pong\obj\Debug\ping_pong.Properties.Resources.resources
+C:\Users\umera\Documents\Visual Studio 2017\Projects\ping pong\ping pong\obj\Debug\ping pong.csproj.GenerateResource.cache
+C:\Users\umera\Documents\Visual Studio 2017\Projects\ping pong\ping pong\obj\Debug\ping pong.csproj.CoreCompileInputs.cache
+C:\Users\umera\Documents\Visual Studio 2017\Projects\ping pong\ping pong\obj\Debug\ping pong.exe
+C:\Users\umera\Documents\Visual Studio 2017\Projects\ping pong\ping pong\obj\Debug\ping pong.pdb
